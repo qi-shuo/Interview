@@ -72,4 +72,6 @@ public abstract class InheritableTask implements Runnable {
      * 代理方法这个方法处理业务逻辑
      */
     protected abstract void runTask();
+
+
 }
